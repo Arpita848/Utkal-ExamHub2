@@ -1,0 +1,3 @@
+-- Initialize the database with Prisma schema
+-- Run: npx prisma db push
+-- This will create all the tables defined in schema.prisma
